@@ -7,7 +7,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tat2008&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tat2008&theme=dracula)](https://git.io/streak-stats)
 [![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tat2008&show_icons=true&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Profile Views](https://gpvc.arturio.dev/tat2008)](https://gpvc.arturio.dev)
+[![GitHub Profile Views](https://visitcount.itsvg.in/api?id=tat2008&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 <!---
 tat2008/tat2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
